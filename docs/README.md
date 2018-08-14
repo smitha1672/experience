@@ -1,3 +1,26 @@
+# Autobiography
+
+My is Smith Hu, From New Taipei City, Taiwan. I graduated from TAMKANG University and my major was in Electrical Engineering.
+Concentrating on 3X3 matrix VLSI design on University last year, I instereted digital IC design.
+Managing around 140 soilders in a company, learning team play, coordinating skill with cross companies,
+I was a lieutenant in army during 4 years volunteer service.
+
+In past working experience, I involved TV product manufacture and mulit-channles sound bar on real-time os or embeded linux.
+Especially, mulit-channles sound bar is my system intergration milestone. Collectiing customer functionality requirements, surveying micro processor,
+real-time os, bare-metel programming with USB pen driver, outputting PCM from micro processor, controlling more common connectivitiy deivces,
+infrared remote controller menu tree specification, I established the project from zero.
+Intergrating these hardware devices(e.g UI indicators, HDMI reapter, CEC and HDCP, audio DSP, SPI storage...etc), managing memory resource,
+I contructed system architecture with free rtos task scheduler, mutex and message queue in ARM cortex-M3/M4.
+The mulit-channles sound bar got best home theater award that extermely encourages me in 2012.
+
+
+
+
+
+<!---
+https://www.hitutor.com.tw/english-autobiography.php -->
+
+<!---
 # Smith, Hu (CHUN CHE HU)
 **+886986211886**
 <br> **smith.a1672@gmail.com**
@@ -46,4 +69,4 @@
 ## Education
 TAMKANG University – New Taipei City, Taiwan
 <br> Bachelor of Science, Department of Electrical Engineering Jan/2005
-
+-->
