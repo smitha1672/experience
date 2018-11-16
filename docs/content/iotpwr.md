@@ -7,7 +7,12 @@
 + Microcontroller processing time.
 
 ## IOT Product hardware architecture
-+ Illstruted...
+
+<img src="hardware_archieture.png"
+width="100%"
+height="1000%"
+alt="Hardware architecture"
+align=center />
 
 ## Turning Method
 + Power Meter
