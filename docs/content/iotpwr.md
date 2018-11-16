@@ -1,10 +1,17 @@
 #
-## IOT Product Power Consumption Tuning
+## IOT Product hardware architecture
+
+<img src="hardware_archieture.png"
+width="100%"
+height="1000%"
+alt="Hardware architecture"
+align=center />
 
 ## Key Points
-+ Physical sensors powered control.
-+ Physical sensors accessing time(hardware interruption/spi/i2c)
-+ Microcontroller processing time.
++ MEMS sensors IRQ wakes up micro controller times.
++ MEMS sensor powered control mechanism.
++ Micro controller IRQ wakes up main processor times.
++ Micro controller API execution time.
 
 ## IOT Product hardware architecture
 
@@ -14,10 +21,23 @@ height="1000%"
 alt="Hardware architecture"
 align=center />
 
-## Turning Method
-+ Power Meter
+## Measured micro controller active processing status with LA.
 
-Monitored physical sensors current consumption.
+<img src="iotmcuactive.png"
+width="100%"
+height="1000%"
+alt="microcontroll active process"
+align=center />
+
+## Measured micro controller active and sleeping status duration time.
+
+<img src="iotmcuactive_sleeping.png"
+width="100%"
+height="100%"
+alt="microcontroller active and sleeping duration"
+align=center />
+
+## Monitered power consumption with MEMS sensors
 
 <img src="peripheral_communication_active.png"
 width="100%"
@@ -31,7 +51,7 @@ height="1000%"
 alt="periphreal consumed state with microcontroller was be in suspended state"
 align=center />
 
-Monitored microcontroller current consumption.
+## Monitored power consumption with micro controller.
 
 <img src="microcontroller_active.png"
 width="100%"
@@ -44,23 +64,4 @@ width="100%"
 height="1000%"
 alt="microcontroll suspended current consumption"
 align=center />
-
-+ Logical analyzer
-
-Microcontroller sleeping and active duration.
-
-<img src="iotmcuactive.png"
-width="100%"
-height="1000%"
-alt="microcontroll active process"
-align=center />
-
-What kind of jobs were be executed in microcontroller active duration.
-
-<img src="iotmcuactive_sleeping.png"
-width="100%"
-height="100%"
-alt="microcontroller active and sleeping duration"
-align=center />
-
 
