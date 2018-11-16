@@ -11,19 +11,45 @@
 
 ## Turning Method
 + Power Meter
-<br>1. Monitored physical sensors current consumption.
-<br>2. Monitored microcontroller current consumption.
-+ Logical analyzer
-<br>1. Microcontroller sleeping and active duration.
 
+Monitored physical sensors current consumption.
+
+<img src="peripheral_communication_active.png"
+width="100%"
+height="1000%"
+alt="periphreal consumed state with microcontroller was be wakeup via MEMS sensors"
+align=center />
+
+<img src="peripheral_communication_suspended.png"
+width="100%"
+height="1000%"
+alt="periphreal consumed state with microcontroller was be in suspended state"
+align=center />
+
+Monitored microcontroller current consumption.
+
+<img src="microcontroller_active.png"
+width="100%"
+height="1000%"
+alt="microcontroll active current consumption"
+align=center />
+
+<img src="microcontroller_suspended.png"
+width="100%"
+height="1000%"
+alt="microcontroll suspended current consumption"
+align=center />
+
++ Logical analyzer
+
+Microcontroller sleeping and active duration.
 <img src="iotmcuactive.png"
 width="100%"
 height="1000%"
 alt="microcontroll active process"
 align=center />
 
-<br>2. What kind of jobs were be executed in microcontroller active duration.
-
+What kind of jobs were be executed in microcontroller active duration.
 <img src="iotmcuactive_sleeping.png"
 width="100%"
 height="100%"
