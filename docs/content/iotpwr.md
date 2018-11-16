@@ -48,6 +48,7 @@ align=center />
 + Logical analyzer
 
 Microcontroller sleeping and active duration.
+
 <img src="iotmcuactive.png"
 width="100%"
 height="1000%"
@@ -55,6 +56,7 @@ alt="microcontroll active process"
 align=center />
 
 What kind of jobs were be executed in microcontroller active duration.
+
 <img src="iotmcuactive_sleeping.png"
 width="100%"
 height="100%"
