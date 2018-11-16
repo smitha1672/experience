@@ -13,14 +13,6 @@ align=center />
 + Micro controller IRQ wakes up main processor times.
 + Micro controller API execution time.
 
-## IOT Product hardware architecture
-
-<img src="hardware_archieture.png"
-width="100%"
-height="1000%"
-alt="Hardware architecture"
-align=center />
-
 ## Measured micro controller active processing status with LA.
 
 <img src="iotmcuactive.png"
