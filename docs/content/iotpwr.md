@@ -7,11 +7,11 @@ height="1000%"
 alt="Hardware architecture"
 align=center />
 
-## Key Points
-+ MEMS sensors IRQ wakes up micro controller times.
+## Consumption Tuning Key Points
++ MEMS sensors IRQ wakes up micro controller times, and periphreal interface access time.
 + MEMS sensor powered control mechanism.
-+ Micro controller IRQ wakes up main processor times.
-+ Micro controller API execution time.
++ Micro controller IRQ wakes up main processor times, and periphreal interface access time.
++ Micro controller program execution time.
 
 ## Measured micro controller active processing status with LA.
 
