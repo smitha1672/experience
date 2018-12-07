@@ -19,6 +19,8 @@
 ## Professional Experience
 ### Staff Engineer, CyweeMotion, Taipei, Taiwan
   08/2015 to Present
++ Intergrated CMSIS interface specificaiton in order to port MEMS sensor drivers to unparticular
+platform
 + In charge of wearable product, design and port MEMS sensors driver (Accelerometer, Gyroscope...etc) in ARM cortex M4
 + Integrated human activity recognition algorithm in particular platform.
 + Porting sensor HAL and sensor driver in particular platform (w AOSP; w/o AOSP).

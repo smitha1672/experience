@@ -1,5 +1,9 @@
 # Autobiography
 
+Smith, Hu (CHUN CHE HU)
+**+886986211886**
+<br> **smith.a1672@gmail.com**
+
 My name is Smith Hu, From New Taipei City, Taiwan. I graduated from TAMKANG University and my major was in Electrical Engineering.
 I interested digital IC design. Therefore, I concentrated on 3x3 matrix small project with Verilog on University last year.
 Due to the project precious experience, I start a firmware engineer career.
