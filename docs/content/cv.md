@@ -2,7 +2,7 @@
 # Smith, Hu (CHUN CHE HU)
 **+886986211886**
 <br> **smith.a1672@gmail.com**
-<br> **Senior Firmware Engineer**
+<br> **Embedded Software Engineer, Sensor**
 
 ## Technical Experience
 + MCU bootloader and application section firmware upgrade
