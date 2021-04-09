@@ -2,7 +2,7 @@
 ## Smith, Hu (CHUN CHE HU)
 **+886986211886**
 <br> **smith.a1672@gmail.com**
-<br> **Embedded Software Engineer, Sensor**
+<br> **Software Engineer**
 
 ## Technical Experience
 + MCU bootloader and application section firmware upgrade
@@ -12,21 +12,20 @@
 + Common connectivity: (I2C, RS-232/UART, SPI, ADC, I2S, etc.)
 + Driver implementation and debug on CortexTM-A53 and M3/4 with RTOS/ AOSP kernal. (SPDIF to I2S, ADC, Digital AMP, HDMI repeater, sensor…etc)
 + Hardware debugging with Digital multimeters, Oscilloscope, Logic analyzer
-+ Coding tool: C, Linux shell script, dos batch.
++ Coding tool: C, C++, Linux shell script, dos batch.
 + Project Control: GIT, SVN, Redmine, JIAR
-+ IDE: Linux VIM, Xtensa Xplorer, Eclipse, IAR, Keil C
++ IDE: Xtensa Xplorer, Eclipse, IAR, Keil C
 
 ## Professional Experience
 ### Staff Engineer, CyweeMotion, Taipei, Taiwan
   08/2015 to Present
-+ Intergrated CMSIS interface specificaiton in order to port MEMS sensor drivers to unparticular
-platform
-+ In charge of wearable product, design and port MEMS sensors driver (Accelerometer, Gyroscope...etc) in ARM cortex M4
++ Intergrated CMSIS interface, it used to co-work with third party designer.
++ In charge of wearable product, design and bring up MEMS sensors (Accelerometer, Gyroscope...etc)
+in MCU
 + Integrated human activity recognition algorithm in particular platform.
-+ Porting sensor HAL and sensor driver in particular platform (w AOSP; w/o AOSP).
++ Implementation Android sensor HAL and sensor hub kernel.
 + Optimized firmware executed efficiency to reduce power consumption.
 + Designed physical and virtual sensors streaming with SOC and sensor hub.
-+ Trouble shooting on site (CHINA)
 
 ### Project Lead Engineer, AMTRAN, New Taipei, Taiwan
   12/2009 to 07/2015
